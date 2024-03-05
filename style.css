@@ -46,13 +46,22 @@ a{
 .camera{
 
     border-radius: 475px;
-        border: 3px solid var(--Brand-Purple-100, #F1E4FF);
-        
+        border: 3px solid var(--Brand-Purple-100, #5e05be);
+        width: 475px;
+            height: 475px;
+       
       
 }
 .image{
 
-    width: 440px;
-        height: 414px;
+width: 440px;
+    height: 414px;
+
+    
         
+}
+ 
+h2{
+
+    text-align: center;
 }
